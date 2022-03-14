@@ -1,4 +1,4 @@
-# Campminder-DevOps-Technical-Assesment
+# Campminder DevOps Technical Assesment
 
 ## DevOps Azure Challenge
 Time to complete: Please do as much as you can of this project in ~60 minutes.
